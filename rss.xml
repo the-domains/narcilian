@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Narcilian]]></title>
+        <description><![CDATA[Narcilian]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 30 Oct 2015 05:27:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First Post]]></title>
+            <description><![CDATA[<h1>First Post</h1>]]></description>
+            <link>undefinedfirst-post/index.html</link>
+            <guid isPermaLink="false">f2373aeb-e65a-4830-9655-a829ec7ca675</guid>
+            <pubDate>Fri, 30 Oct 2015 05:26:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
